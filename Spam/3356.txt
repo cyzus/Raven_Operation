@@ -1,0 +1,35 @@
+Return-Path: 
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 15950 invoked by uid 115); 18 Dec 2004 00:10:50 -0000
+Received: from istmentors@istmentors.com by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(207.13.99.131):. 
+ Processed in 0.103677 secs); 18 Dec 2004 00:10:50 -0000
+Received: from mailb1.istlearning.com (207.13.99.131)
+  by churchill.factcomp.com with SMTP; 18 Dec 2004 00:10:49 -0000
+Received: (qmail 9257 invoked from network); 18 Dec 2004 00:12:17 -0000
+Received: from unknown (HELO istmentors.com) (10.200.57.10)
+  by 0 with SMTP; 18 Dec 2004 00:12:17 -0000
+Message-ID: <20041217181216.B82F9461ED537860@istmentors.com>
+From: istmentors@istmentors.com
+To: bruceg@em.ca
+Subject: Per your request
+Date: 17 Dec 2004 18:12:17 -0600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

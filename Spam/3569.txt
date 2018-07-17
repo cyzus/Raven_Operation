@@ -1,0 +1,71 @@
+Return-Path: 
+Received: (fqmail 32353 invoked from network); 25 Dec 2004 05:45:42 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 25 Dec 2004 05:45:42 -0000
+Received: (qmail 29487 invoked from network); 25 Dec 2004 05:45:42 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by mx07.futurequest.net ([69.5.6.180]); 25 Dec 2004 05:45:42 -0000
+Received: from 221.148.203.198 ([221.148.203.198])
+  by mx08.futurequest.net ([69.5.6.180])
+  with SMTP via TCP; 25 Dec 2004 05:45:42 -0000
+From: =?utf-8?q?Tilly Bllcab?= 
+To: =?utf-8?q?Tessa Agon?= 
+Subject: =?utf-8?q?furtherance propose?=
+Date: Sat, 25 Dec 2004 08:47:36 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	 boundary="4EXBzJCCkdsOwbVHMI"
+
+This is a multi-part message in MIME format.
+
+--4EXBzJCCkdsOwbVHMI
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir/Madam,
+
+We are glad to offer you a broad range of databases:
+both general and targeted (by country, city or state,
+by topic or by audience).  
+
+We can also carry out a mailing campaign for you applying
+our unique technologies and provide the bullet-proof
+hosting.
+
+The constant of our service demand allows us to keep
+low prices.
+ 
+http://www.%65%6dailprom%6f.biz/eng/cont.html
+
+Please, feel free to contact us anytime!
+--4EXBzJCCkdsOwbVHMI
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+Dear Sir/Madam,
+We are glad to offer you a broad range of databases:both general and 
+targeted (by country, city or state,by topic or by audience).=
+  
+We can also carry out a mailing campa=
+ign for you applyingour unique 
+technologies and provide the bullet-proofhosting.
+The constant of our service demand allows us to keeplow 
+prices. 
+
+Click Here To Contact Us (USE =
+ONLY THIS)
+Please, feel free to contact us anytime!
+
+
+--4EXBzJCCkdsOwbVHMI--
+

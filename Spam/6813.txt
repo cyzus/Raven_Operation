@@ -1,0 +1,1 @@
+  contenttypetext html charsetusascii contenttransferencoding bit body fontfamilygulimfontsize ptpmargintoppxmarginbottompx 

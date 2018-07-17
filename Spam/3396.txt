@@ -1,0 +1,97 @@
+Return-Path: 
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28769 invoked by uid 115); 20 Dec 2004 01:54:59 -0000
+Received: from quchvttam@adelphia.net by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(211.243.180.46):. 
+ Processed in 0.248901 secs); 20 Dec 2004 01:54:59 -0000
+Received: from unknown (HELO 209.5.178.248) (211.243.180.46)
+  by churchill.factcomp.com with SMTP; 20 Dec 2004 01:54:57 -0000
+Received: from 88.0.42.87 by 211.243.180.46; Sun, 19 Dec 2004 22:55:18 -0300
+Message-ID: 
+From: "Dillon Huggins" 
+Reply-To: "Dillon Huggins" 
+To: bruceg@em.ca
+Subject: This is the bset
+Date: Sun, 19 Dec 2004 21:53:18 -0400
+X-Mailer: Ximian Evolution 1.4.4
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--7266068315150026"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----7266068315150026
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+
+
+=
+
+
+
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+span.EstiloDeEmail17
+	{mso-style-type:personal-compose;
+	font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+Sa;ve 7_0% ord.ering onl/ine To`day!
+Vi!sit our Site and Sa!=
+ve Big
+
+
+removemeplease=
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+----7266068315150026--
+

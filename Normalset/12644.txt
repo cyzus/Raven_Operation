@@ -1,0 +1,1 @@
+ no ancillary schedules awarded variances detected variances detected in load schedule log messagesparsing file h netco finalsha finals load txtload schedulevariance found in table load schedule detailshour preferred finaltrans typefinal mkt typeha from location idpge 

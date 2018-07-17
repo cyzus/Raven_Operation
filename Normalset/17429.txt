@@ -1,0 +1,1 @@
+ winston i am sending you ffd vol curves which are calculated based onmonthlogreturns of data with decay factor these vols give m in var for storageprc versus in production fortell me what i need to change in the format so that it is convenient for you tanya 

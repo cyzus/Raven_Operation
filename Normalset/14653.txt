@@ -1,0 +1,1 @@
+ andrea we computed the hc historical volatility for lastyears it is using this volatility the costless collar call strike is at zimin 

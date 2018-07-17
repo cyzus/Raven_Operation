@@ -1,0 +1,1 @@
+ start date; hourahead hour; hourahead schedule download failed manual intervention required 

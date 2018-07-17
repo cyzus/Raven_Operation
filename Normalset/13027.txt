@@ -1,0 +1,1 @@
+ start date; hourahead hour; no ancillary schedules awarded variances detected variances detected in load schedule log messagesparsing file o portlandwestdeskcalifornia schedulingiso final schedules txtload schedulevariance found in table tblloads detailshour preferredfinaltrans typefinal load idsdg mkt type trans date sc idenrj 

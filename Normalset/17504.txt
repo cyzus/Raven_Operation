@@ -1,0 +1,1 @@
+ grant would you take a look at the following correlation matrixdoes it make sensepsthis is an updated correlation matrix with gold and silver correlations i used bloomberg s generic closest month gold and silver contract prices for the correlation analysis 

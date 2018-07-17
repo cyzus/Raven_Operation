@@ -1,0 +1,1 @@
+ everybody we were talking for a while about using nonnormal distributions in the montecarlo simulations in our var model i put together some suggestion regarding this the text is under odropboxtanyanon normal logs doc look through thispage document and let me know what you think please tanya

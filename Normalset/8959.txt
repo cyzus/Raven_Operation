@@ -1,0 +1,1 @@
+embedded picture device independent bitmap

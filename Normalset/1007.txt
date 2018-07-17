@@ -1,0 +1,1 @@
+ Report is missing some VAR s because London was not in the office Please launch the Excel application rather than using the Lotus Notes Viewer Please note that the DPR and therefore this report is preliminary 

@@ -1,0 +1,1 @@
+ we have moved another change into production where any bid equal to over the max rate will be valued using athroughput commitment this way any one part and two part bid over max rate will be evaluated in the same manner this also means that when a user checks the max rate button athroughput commitment will be assumed 
